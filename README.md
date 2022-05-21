@@ -1,1 +1,3 @@
-# phase-1-project-calculator
+# Project: Phase
+
+# A fully function calculator.
